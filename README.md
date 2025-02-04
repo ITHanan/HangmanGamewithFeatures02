@@ -1,7 +1,7 @@
 # 🎭 Hangman Game 🎮  
 A fun console-based **Hangman** game built in **C#** using `Spectre.Console` for styling and `Figgle` for ASCII text generation. The game includes **JSON data storage**, **OOP principles**, and follows **Clean Code** best practices.
 
-![Hangman Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ5cGZlZGlwMGV2eHppNjZvd2xtYjNsY3lhdXY0enp1aHE0MjVpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/xtiwKO6DZCme4/giphy.gif)  
+![Hangman Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmo2YjJyYXo3aDAzYnRzaHgxaXE3bWZudTQ4dzdzaWJwMmdvYWtnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ybQIv0CsYm1XY9A8Dm/giphy.gif)  
 
 ---
 
@@ -109,7 +109,7 @@ Your support helps in improving the project.
 
 📧 **Contact:** ithanan@gmail.com | [Your GitHub Profile](https://github.com/ITHanan)  
 
-[Thanks for Visiting](https://media.giphy.com/media/xT8qB8jQlwZg5TuR8U/giphy.gif)
+[Thanks for Visiting](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ5cGZlZGlwMGV2eHppNjZvd2xtYjNsY3lhdXY0enp1aHE0MjVpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/xtiwKO6DZCme4/giphy.gif)
 
 
 ✅ **How to Use It?**
