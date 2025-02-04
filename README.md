@@ -112,10 +112,6 @@ Your support helps in improving the project.
 ![Thanks for Visiting](https://media.giphy.com/media/xT8qB8jQlwZg5TuR8U/giphy.gif)
 ```
 
----
-
-
----
 
 ### ✅ **How to Use It?**
 - Copy and paste this into your `README.md` file.
@@ -129,4 +125,6 @@ This `README.md` includes:
 - 📜 JSON data handling
 - 📜 Proper project structure  
 
-Let me know if you need **modifications** or **additional features**! 🚀🔥
+
+ 
+
