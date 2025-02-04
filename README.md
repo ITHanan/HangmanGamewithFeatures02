@@ -1,7 +1,7 @@
 # 🎭 Hangman Game 🎮  
 A fun console-based **Hangman** game built in **C#** using `Spectre.Console` for styling and `Figgle` for ASCII text generation. The game includes **JSON data storage**, **OOP principles**, and follows **Clean Code** best practices.
 
-![Hangman Banner](https://media4.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)  
+![Hangman Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ5cGZlZGlwMGV2eHppNjZvd2xtYjNsY3lhdXY0enp1aHE0MjVpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/xtiwKO6DZCme4/giphy.gif)  
 
 ---
 
