@@ -1,11 +1,3 @@
-
-Here's a well-structured, visually appealing `README.md` for your Hangman game project. It includes emojis, an image, and a GIF to make it more engaging.  
-
----
-
-### 📜 **README.md for Hangman Game**  
-
-```md
 # 🎭 Hangman Game 🎮  
 A fun console-based **Hangman** game built in **C#** using `Spectre.Console` for styling and `Figgle` for ASCII text generation. The game includes **JSON data storage**, **OOP principles**, and follows **Clean Code** best practices.
 
@@ -33,8 +25,6 @@ A fun console-based **Hangman** game built in **C#** using `Spectre.Console` for
 ┣ 📜 hangman_history.json  # Stored Game Data  
 ┣ 📜 README.md         # Documentation  
 ┗ 📜 .gitignore        # Git Ignore File  
-```
-
 ---
 
 ## 🎮 How to Play  
