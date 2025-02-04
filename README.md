@@ -110,7 +110,6 @@ Your support helps in improving the project.
 📧 **Contact:** ithanan@gmail.com | [Your GitHub Profile](https://github.com/ITHanan)  
 
 ![Thanks for Visiting](https://media.giphy.com/media/xT8qB8jQlwZg5TuR8U/giphy.gif)
-```
 
 
 ✅ **How to Use It?**
@@ -124,6 +123,7 @@ This `README.md` includes:
 - 🎥 GIFs for engagement
 - 📜 JSON data handling
 - 📜 Proper project structure 
+ 
 
 
  
