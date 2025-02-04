@@ -113,7 +113,7 @@ Your support helps in improving the project.
 ```
 
 
-### ✅ **How to Use It?**
+✅ **How to Use It?**
 - Copy and paste this into your `README.md` file.
 - Replace **`your-username`** with your actual GitHub username.
 - Replace **your email/contact details** if you want to include them.
@@ -123,7 +123,7 @@ This `README.md` includes:
 - 🎮 Emojis for better visual appeal
 - 🎥 GIFs for engagement
 - 📜 JSON data handling
-- 📜 Proper project structure  
+- 📜 Proper project structure 
 
 
  
