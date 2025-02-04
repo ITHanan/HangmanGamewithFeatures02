@@ -109,7 +109,7 @@ Your support helps in improving the project.
 
 📧 **Contact:** ithanan@gmail.com | [Your GitHub Profile](https://github.com/ITHanan)  
 
-[Thanks for Visiting](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ5cGZlZGlwMGV2eHppNjZvd2xtYjNsY3lhdXY0enp1aHE0MjVpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/xtiwKO6DZCme4/giphy.gif)
+![Thanks for Visiting](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ5cGZlZGlwMGV2eHppNjZvd2xtYjNsY3lhdXY0enp1aHE0MjVpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/xtiwKO6DZCme4/giphy.gif)
 
 
 ✅ **How to Use It?**
