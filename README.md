@@ -17,7 +17,6 @@ A fun console-based **Hangman** game built in **C#** using `Spectre.Console` for
 
 ## 📂 Project Structure  
 
-```bash
 📦 HangmanGame  
 ┣ 📜 Program.cs        # Main Game Logic  
 ┣ 📜 HangmanGame.cs    # Core Hangman Class  
